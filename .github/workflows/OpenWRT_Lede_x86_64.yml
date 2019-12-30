@@ -5,7 +5,7 @@
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
-name: OpenWRT_x86_64
+name: OpenWRT_Lede_x86_64
 
 on: 
   release:
