@@ -4,15 +4,15 @@
 # Author: Worship0
 #=================================================
 
-name: OpenWRT_land_x86_64
+name: OpenWRT_lede_x86_64
 
 on: 
   release:
     types: [published]
 
-  #push:
-  #  branches: 
-  #    - master
+  push:
+    branches: 
+      - master
 
   #schedule:
   #  - cron: 0 8 * * 5
