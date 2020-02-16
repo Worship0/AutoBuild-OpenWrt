@@ -4,7 +4,7 @@
 # Author: Worship0
 #=================================================
 
-name: OpenWRT_lede_x86_64
+name: OpenWRT_x86_64_lede
 
 on: 
   release:
